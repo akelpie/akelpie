@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/78089717/232228566-aa8ac9da-946a-433a-bc8f-86a467dd3681.gif)
